@@ -3,7 +3,7 @@ This project implements a JavaFX-based client application for image processing a
 
 Users can select images, apply processing operations, extract visual features, and perform simple classification based on extracted feature values.
 
-Key Features
+Key Features:
 
 Graphical User Interface
 
