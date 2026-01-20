@@ -39,7 +39,8 @@ Visualisation of detected features
 
 Technical Stack
 
-Language: Java
+
+
 
 GUI Framework: JavaFX
 
