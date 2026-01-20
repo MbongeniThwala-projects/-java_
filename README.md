@@ -37,9 +37,8 @@ Feature-based threshold classification
 
 Visualisation of detected features
 
-Technical Stack
-
-
+.
+Technical Stack:
 
 
 GUI Framework: JavaFX
